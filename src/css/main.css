@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+    background-color: blue;
+    font-weight: bold;
+    color: beige;
+    text-align: center;
+}
+
+h4 {
+    color: greenyellow;
+}
